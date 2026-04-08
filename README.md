@@ -174,7 +174,7 @@ If you use this repository, dataset splits, or paper, please cite:
 ```bibtex
 @inproceedings{kang2026learning,
   title     = {Learning to Decipher from Pixels: A Case Study of Copiale},
-  author    = {Lei Kang, Giuseppe De Gregorio$, Raphaela Heil, Alicia Fornés, Beáta Megyesi$},
+  author    = {Kang, Lei and De Gregorio, Giuseppe and Heil, Raphaela and Fornés, Alicia and Megyesi, Beáta},
   booktitle = {International Conference on Historical Cryptology (HistoCrypt)},
   year      = {2026}
 }
